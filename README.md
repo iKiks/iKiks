@@ -70,7 +70,7 @@
 
 <br>
 
-[![Peace's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iKiks&theme=react-dark)](https://github.com/iKiks/github-readme-activity-graph)
+[![Okiki's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iKiks&theme=react-dark)](https://github.com/iKiks/github-readme-activity-graph)
 
 <img src="assets/light.gif"> 
 
