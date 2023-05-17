@@ -3,34 +3,34 @@
 </div>
 
 <h3 align="center">
-  Welcome to Peace's profile!
+  Welcome to Okiki's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-- 👋 Hi, I’m Peace Oloruntoba... ( aka Prof Prince Peace )
+- 👋 Hi, I’m Olanrewaju Okiki... ( aka iKiks )
 - 👀 I’m interested in working with Full Stack Web Development Projects, Designing Webpages and anything related to Competitive Programming.
 - 🌱 I’m currently learning new tech stacks and working over my skills.
 - 💞️ I’m looking to collaborate on projects of Web Development, JavaScript, Python and PHP or any basic Software Development Project.
-- 📫 You can reach out to me at peaceoloruntoba22@gmail.com or drop a message at https://www.linkedin.com/in/peaceedgetech
+- 📫 You can reach out to me at peaceoloruntoba22@gmail.com or drop a message at https://www.linkedin.com/in/okikiolanrewaju/
 - 😁 Fun Fact: ```Did you know that the first computer mouse was made of wood?```
 
 <img src="assets/light.gif">
 
 <p align="center"> 
-  <a href="https://github.com/peaceoloruntoba?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/raj03kumar?color=FFBF00&style=for-the-badge&labelColor=ff5e00&logo=star"/></a>
-  <a href="https://github.com/peaceoloruntoba?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/peaceoloruntoba?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/iKiks?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/iKiks?color=FFBF00&style=for-the-badge&labelColor=ff5e00&logo=star"/></a>
+  <a href="https://github.com/iKiks?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/iKiks?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 <!-- Profile Views -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=peaceoloruntoba&style=for-the-badge&color=0a2647"> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iKiks&style=for-the-badge&color=0a2647"> </p>
 
 ## 🌐 Socials: 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/peaceedgetech]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/PeaceEdgeTech"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://github.com/PeaceOloruntoba"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.instagram.com/peaceedgetech"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="[[https://www.linkedin.com/in/peaceedgetech](https://www.linkedin.com/in/okikiolanrewaju/)]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/iKIKS_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://github.com/iKiks"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.instagram.com/i_kiiks"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 ## 💻 Tech Stack:
@@ -39,25 +39,25 @@
 ## 📊 GitHub Stats:
 <img src="assets/light.gif">
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PeaceOloruntoba&theme=monokai&hide_border=false&include_all_commits=true&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iKiks&theme=monokai&hide_border=false&include_all_commits=true&count_private=true">
   <br>
   <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PeaceOloruntoba&theme=monokai&hide_border=false">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iKiks&theme=monokai&hide_border=false">
   <br>
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeaceOloruntoba&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKiks&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
 
 # 👨‍💻LOC:
 <img src="assets/light.gif">
 <div align="center">
-  <img align="center" src="https://api.githubtrends.io/user/svg/PeaceOloruntoba/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves">
+  <img align="center" src="https://api.githubtrends.io/user/svg/iKiks/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves">
 </div>
 
 # 📈 Productivity Stats:
 <table align="center">
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PeaceOloruntoba&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iKiks&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
   </tr> 
 </table>
 
@@ -65,12 +65,12 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PeaceOloruntoba&theme=discord&no-frame=false&no-bg=false&margin-w=4">
+  <img src="https://github-profile-trophy.vercel.app/?username=iKiks&theme=discord&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
 <br>
 
-[![Peace's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PeaceOloruntoba&theme=react-dark)](https://github.com/PeaceOloruntoba/github-readme-activity-graph)
+[![Peace's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iKiks&theme=react-dark)](https://github.com/iKiks/github-readme-activity-graph)
 
 <img src="assets/light.gif"> 
 
