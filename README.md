@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/night coding.gif">
+  <img src="https://tenor.com/bQ6Vb.gif">
 </div>
 
 <h3 align="center">
